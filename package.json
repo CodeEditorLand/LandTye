@@ -402,7 +402,7 @@
 		"semver": "7.7.1"
 	},
 	"devDependencies": {
-		"@playform/build": "0.2.2",
+		"@playform/build": "0.2.3",
 		"@types/glob": "8.1.0",
 		"@types/js-yaml": "4.0.9",
 		"@types/node": "22.14.0",
