@@ -1,29 +1,7 @@
 {
 	"name": "@codeeditorland/tye",
 	"displayName": "Tye",
-	"version": "0.0.1",
-	"private": false,
 	"description": "Makes it easy to debug and interact with applications using Tye.",
-	"keywords": [
-		"codeeditorland",
-		"land",
-		"playform"
-	],
-	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/LandTye#readme",
-	"bugs": {
-		"url": "HTTPS://GitHub.Com/CodeEditorLand/LandTye/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+HTTPS://github.com/CodeEditorLand/LandTye.git"
-	},
-	"license": "SEE LICENSE IN LICENSE",
-	"author": {
-		"name": "Source 🖋️ Open 👐🏻",
-		"email": "Source/Open@Editor.Land",
-		"url": "HTTPS://Editor.Land"
-	},
-	"type": "module",
 	"main": "./main.js",
 	"scripts": {
 		"build": "webpack --mode production --devtool hidden-source-map",
@@ -411,9 +389,6 @@
 		"@types/semver": "7.7.0",
 		"glob": "11.0.1",
 		"ts-loader": "9.5.2"
-	},
-	"publishConfig": {
-		"access": "public"
 	},
 	"icon": "resources/brand-tye_128x.png",
 	"preview": true,
