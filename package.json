@@ -393,7 +393,7 @@
 		"onView:vscode-tye.views.services"
 	],
 	"dependencies": {
-		"axios": "1.8.4",
+		"axios": "1.9.0",
 		"js-yaml": "4.1.0",
 		"node-netstat": "1.9.0",
 		"ps-list": "8.1.1",
@@ -405,7 +405,7 @@
 		"@playform/build": "0.2.3",
 		"@types/glob": "8.1.0",
 		"@types/js-yaml": "4.0.9",
-		"@types/node": "22.14.1",
+		"@types/node": "22.15.2",
 		"@types/node-netstat": "1.8.4",
 		"@types/ps-tree": "1.1.6",
 		"@types/semver": "7.7.0",
